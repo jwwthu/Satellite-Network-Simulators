@@ -68,7 +68,7 @@ This is the repository for the collection of satellite network simulators.
 * <b>SNS3</b>: Puttonen J, Rantanen S, Laakso F, et al. <b>Satellite model for network simulator 3[C]</b>//SimuTools. 2014: 86-91. [Link](https://scholar.archive.org/work/m3nyifvplvbafnhoxphior7kxy/access/wayback/https://eudl.eu/pdf/10.4108/icst.simutools.2014.254631) [Webpage](http://satellite-ns3.com/)
 
 ## 2013
-* <b>OS3</b>: Niehoefer B, Šubik S, Wietfeld C. <b>The cni open source satellite simulator based on omnet++[C]</b>//Proceedings of the 6th International ICST Conference on Simulation Tools and Techniques. 2013: 314-321. [Link](https://www.researchgate.net/profile/Sebastian-Subik/publication/236032227_The_CNI_Open_Source_Satellite_Simulator_based_on_OMNeT/links/54043b8b0cf2bba34c1c538d/The-CNI-Open-Source-Satellite-Simulator-based-on-OMNeT.pdf) [Webpage](\url{https://omnetpp.org/download-items/OS3.html})
+* <b>OS3</b>: Niehoefer B, Šubik S, Wietfeld C. <b>The cni open source satellite simulator based on omnet++[C]</b>//Proceedings of the 6th International ICST Conference on Simulation Tools and Techniques. 2013: 314-321. [Link](https://www.researchgate.net/profile/Sebastian-Subik/publication/236032227_The_CNI_Open_Source_Satellite_Simulator_based_on_OMNeT/links/54043b8b0cf2bba34c1c538d/The-CNI-Open-Source-Satellite-Simulator-based-on-OMNeT.pdf) [Webpage](https://omnetpp.org/download-items/OS3.html)
 
 ## 2012
 * <b>SATSIM</b>: Bodin P, Nylund M, Battelino M. <b>SATSIM—A real-time multi-satellite simulator for test and validation in formation flying projects[J]</b>. Acta Astronautica, 2012, 74: 29-39. [Link](https://www.sciencedirect.com/science/article/pii/S009457651100350X)
