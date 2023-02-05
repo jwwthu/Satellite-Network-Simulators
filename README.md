@@ -16,6 +16,10 @@ This is the repository for the collection of satellite network simulators.
 * Yastrebova A, Anttonen A, Lasanen M, et al. <b>Interoperable simulation tools for satellite networks[C]</b>//2021 IEEE 22nd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2021: 304-309. [Link](https://ieeexplore.ieee.org/abstract/document/9469436/)
 
 ## 2022
+* Puddu R, Popescu V, Murroni M. <b>An Open Source Simulator for Next Generation Satellite Broadband Traffic Management[C]</b>//2022 IEEE Aerospace Conference (AERO). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9843545/)
+* Kodheli O, Querol J, Astro A, et al. <b>5G Space Communications Lab: Reaching New Heights[C]</b>//2022 18th International Conference on Distributed Computing in Sensor Systems (DCOSS). IEEE, 2022: 349-356. [Gitlab Link](https://gitlab.eurecom.fr/oai/openairinterface5g/-/tree/SnT-enb-ntn-rel-1.0)
+* Afhamisis M, Barillaro S, Palattella M R. <b>A Testbed for LoRaWAN Satellite Backhaul: Design Principles and Validation[C]</b>//2022 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2022: 1171-1176. [Link](https://ieeexplore.ieee.org/abstract/document/9814560/)
+* Fraire J A, Madoery P, Mesbah M A, et al. <b>Simulating LoRa-Based Direct-to-Satellite IoT Networks with FLoRaSat[C]</b>//2022 IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2022: 464-470. [Link](https://ieeexplore.ieee.org/abstract/document/9842830/) [Code](https://ieeexplore.ieee.org/abstract/document/9842830) [Gitlab Link](https://gitlab.inria.fr/jfraire/florasat)
 * <b>Celestial</b>: Pfandzelter T, Bermbach D. <b>Celestial: Virtual Software System Testbeds for the LEO Edge[J]</b>. arXiv preprint arXiv:2204.06282, 2022. [Link](https://arxiv.org/abs/2204.06282) [GitHub Link](https://github.com/OpenFogStack/celestial)
 * Pfandzelter T, Bermbach D. <b>QoS-Aware Resource Placement for LEO Satellite Edge Computing[J]</b>. arXiv preprint arXiv:2201.05872, 2022. [Link](https://arxiv.org/abs/2201.05872) [GitHub Link](https://github.com/pfandzelter/optimal-leo-placement)
 * <b>SMN Simulator</b>: Kim J, Lee J, Ko H, et al. <b>Space Mobile Networks: Satellite as Core and Access Networks for B5G[J]</b>. IEEE Communications Magazine, 2022, 60(4): 58-64. [Link](https://ieeexplore.ieee.org/abstract/document/9755268) [GitHub Link](https://github.com/Joonwoo-MNC/SMN-Simulator)
@@ -42,6 +46,7 @@ This is the repository for the collection of satellite network simulators.
 * <b>Trunks</b>, a lightweight DVB-S2/RCS2 satellite system simulator. [GitHub Link](https://github.com/shynuu/trunks)
 
 ## 2020
+* Deutschmann J, Hielscher K S J, German R. <b>An ns-3 model for multipath communication with terrestrial and satellite links[C]</b>//Measurement, Modelling and Evaluation of Computing Systems: 20th International GI/ITG Conference, MMB 2020, Saarbrücken, Germany, March 16–18, 2020, Proceedings 20. Springer International Publishing, 2020: 65-81. [Link](https://link.springer.com/chapter/10.1007/978-3-030-43024-5_5) [Github Link](https://github.com/cs7org/ns-3.29-tmc-mmb2020)
 * Cheng N, Quan W, Shi W, et al. <b>A comprehensive simulation platform for space-air-ground integrated network[J]</b>. IEEE Wireless Communications, 2020, 27(1): 178-185. [Link](https://ieeexplore.ieee.org/abstract/document/8994207/)
 * <b>SGIN-Stack</b>: Wang X, Chen X, Ye H, et al. <b>Cloud-based experimental platform for the space-ground integrated network[J]</b>. Wireless Communications and Mobile Computing, 2020, 2020. [Link](https://www.hindawi.com/journals/wcmc/2020/8893187/)
 * <b>Hypatia</b>: Kassing S, Bhattacherjee D, Águas A B, et al. <b>Exploring the" Internet from space" with Hypatia[C]</b>//Proceedings of the ACM Internet Measurement Conference. 2020: 214-229. [Link](https://dl.acm.org/doi/abs/10.1145/3419394.3423635) [GitHub Link](https://github.com/snkas/hypatia)
@@ -51,6 +56,7 @@ This is the repository for the collection of satellite network simulators.
 * Al-Hraishawi H, Lagunas E, Chatzinotas S. <b>Traffic simulator for multibeam satellite communication systems[C]</b>//2020 10th Advanced Satellite Multimedia Systems Conference and the 16th Signal Processing for Space Communications Workshop (ASMS/SPSC). IEEE, 2020: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/9268831/)
 
 ## 2019
+* Leoni A, Nannipieri P, Davalle D, et al. <b>Shine: Simulator for satellite on-board high-speed networks featuring spacefibre and spacewire protocols[J]</b>. Aerospace, 2019, 6(4): 43. [Link](https://www.mdpi.com/2226-4310/6/4/43)
 * Guo X, Guo B, Li K, et al. <b>A SDN-enabled Integrated Space-Ground Information Network Simulation Platform[C]</b>//2019 18th International Conference on Optical Communications and Networks (ICOCN). IEEE, 2019: 1-3. [Link](https://ieeexplore.ieee.org/abstract/document/8934091/)
 * Li K, Guo B, Huang S, et al. <b>A Simulation Platform for Software Defined Integrated Space Ground Network[C]</b>//2019 IEEE 11th International Conference on Advanced Infocomm Technology (ICAIT). IEEE, 2019: 118-123. [Link](https://ieeexplore.ieee.org/abstract/document/8935928/)
 
@@ -58,6 +64,7 @@ This is the repository for the collection of satellite network simulators.
 * Qin J, Dong T, Guo Q, et al. <b>Dynamic simulation platform for software defined optical satellite networking[C]</b>//Fiber Optic Sensing and Optical Communication. International Society for Optics and Photonics, 2018, 10849: 1084911. [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10849/1084911/Dynamic-simulation-platform-for-software-defined-optical-satellite-networking/10.1117/12.2505497.short)
 
 ## 2017
+* Fraire J A, Madoery P, Raverta F, et al. <b>Dtnsim: Bridging the gap between simulation and implementation of space-terrestrial dtns[C]</b>//2017 6th International Conference on Space Mission Challenges for Information Technology (SMC-IT). IEEE, 2017: 120-123. [Link](https://ieeexplore.ieee.org/abstract/document/8227550/) [Bitbucket Link](https://bitbucket.org/lcd-unc-ar/dtnsim)
 * <b>OpenSatNet</b>: Fei C, Zhao B, Yu W, et al. <b>A research platform for software defined satellite networks[C]</b>//2017 16th International Conference on Optical Communications and Networks (ICOCN). IEEE, 2017: 1-2. [Link](https://ieeexplore.ieee.org/abstract/document/8121473/)
 * <b>OpenSAND</b>, an open source satcom Emulator. [Webpage](https://www.opensand.org/) [GitHub Link](https://github.com/CNES/opensand)
 
