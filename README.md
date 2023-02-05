@@ -3,11 +3,14 @@ This is the repository for the collection of satellite network simulators.
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.576).
 * Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
-* Deadline for manuscript submissions: **1 December 2022**.
+* Deadline for manuscript submissions: **31 August 2023**.
 
 # Liteature Review
 ## Relevant Projects
 * University of Luxembourg: [https://wwwfr.uni.lu/snt/research/sigcom/sw_simulators](https://wwwfr.uni.lu/snt/research/sigcom/sw_simulators)
+
+## Thesis
+* Universitat Politècnica de Catalunya · BarcelonaTech BACHELOR DEGREE THESIS: Virtual Satellite Network Simulator (VSNeS) - A Novel Engine to Evaluate Satellite Networks Over Virtual Infrastructure and Networks [Link](https://upcommons.upc.edu/handle/2117/375390)
 
 ## Other Surveys
 * Yastrebova A, Anttonen A, Lasanen M, et al. <b>Interoperable simulation tools for satellite networks[C]</b>//2021 IEEE 22nd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2021: 304-309. [Link](https://ieeexplore.ieee.org/abstract/document/9469436/)
