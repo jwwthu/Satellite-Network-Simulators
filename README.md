@@ -16,6 +16,7 @@ This is the repository for the collection of satellite network simulators.
 * Yastrebova A, Anttonen A, Lasanen M, et al. <b>Interoperable simulation tools for satellite networks[C]</b>//2021 IEEE 22nd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2021: 304-309. [Link](https://ieeexplore.ieee.org/abstract/document/9469436/)
 
 ## 2022
+* Kon P T J, Barradas D, Chen A. <b>Stargaze: A LEO Constellation Emulator for Security Experimentation[C]</b>//Proceedings of the 4th Workshop on CPS & IoT Security and Privacy. 2022: 47-53. [Link](https://dl.acm.org/doi/abs/10.1145/3560826.3563382) [Code](https://github.com/patrickkon/Stargaze)
 * Puddu R, Popescu V, Murroni M. <b>An Open Source Simulator for Next Generation Satellite Broadband Traffic Management[C]</b>//2022 IEEE Aerospace Conference (AERO). IEEE, 2022: 1-6. [Link](https://ieeexplore.ieee.org/abstract/document/9843545/)
 * Kodheli O, Querol J, Astro A, et al. <b>5G Space Communications Lab: Reaching New Heights[C]</b>//2022 18th International Conference on Distributed Computing in Sensor Systems (DCOSS). IEEE, 2022: 349-356. [Gitlab Link](https://gitlab.eurecom.fr/oai/openairinterface5g/-/tree/SnT-enb-ntn-rel-1.0)
 * Afhamisis M, Barillaro S, Palattella M R. <b>A Testbed for LoRaWAN Satellite Backhaul: Design Principles and Validation[C]</b>//2022 IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2022: 1171-1176. [Link](https://ieeexplore.ieee.org/abstract/document/9814560/)
