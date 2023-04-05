@@ -12,6 +12,8 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Special issue website: [https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8](https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8)
 * Deadline for manuscript submissions: **3 October 2023**.
 
+**Advertisement**: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
+
 # Liteature Review
 ## Relevant Projects
 * University of Luxembourg: [https://wwwfr.uni.lu/snt/research/sigcom/sw_simulators](https://wwwfr.uni.lu/snt/research/sigcom/sw_simulators)
