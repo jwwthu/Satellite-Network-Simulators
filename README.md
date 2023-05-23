@@ -57,6 +57,7 @@ If you find this repository helpful, you may consider cite our relevant work:
 * <b>Trunks</b>, a lightweight DVB-S2/RCS2 satellite system simulator. [GitHub Link](https://github.com/shynuu/trunks)
 
 ## 2020
+* Wei J, Cao S, Pan S, et al. <b>SatEdgeSim: A toolkit for modeling and simulation of performance evaluation in satellite edge computing environments[C]</b>//2020 12th International Conference on Communication Software and Networks (ICCSN). IEEE, 2020: 307-313. [Link](https://ieeexplore.ieee.org/abstract/document/9139057/) [Code](https://github.com/wjy491156866/SatEdgeSim)
 * Deutschmann J, Hielscher K S J, German R. <b>An ns-3 model for multipath communication with terrestrial and satellite links[C]</b>//Measurement, Modelling and Evaluation of Computing Systems: 20th International GI/ITG Conference, MMB 2020, Saarbrücken, Germany, March 16–18, 2020, Proceedings 20. Springer International Publishing, 2020: 65-81. [Link](https://link.springer.com/chapter/10.1007/978-3-030-43024-5_5) [Github Link](https://github.com/cs7org/ns-3.29-tmc-mmb2020)
 * Cheng N, Quan W, Shi W, et al. <b>A comprehensive simulation platform for space-air-ground integrated network[J]</b>. IEEE Wireless Communications, 2020, 27(1): 178-185. [Link](https://ieeexplore.ieee.org/abstract/document/8994207/)
 * <b>SGIN-Stack</b>: Wang X, Chen X, Ye H, et al. <b>Cloud-based experimental platform for the space-ground integrated network[J]</b>. Wireless Communications and Mobile Computing, 2020, 2020. [Link](https://www.hindawi.com/journals/wcmc/2020/8893187/)
